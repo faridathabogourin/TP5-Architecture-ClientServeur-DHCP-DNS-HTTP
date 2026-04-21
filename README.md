@@ -1,16 +1,16 @@
 ##  Aperçu
 
 ### Topologie réseau
-![Topologie](screenshots/topologie.png)
+![Topologie](topologie.png)
 
 ### Configuration DHCP
-![DHCP](screenshots/config_dhcp.png)
+![DHCP](config_dhcp.png)
 
 ### Test DNS — Résolution www.ece.fr
-![DNS](screenshots/test_dns.png)
+![DNS](test_dns.png)
 
 ### Validation finale
-![Test Web](screenshots/test_web.png)
+![Test Web](test_web.png)
 
 ---
 
